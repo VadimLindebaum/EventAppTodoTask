@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/VadimLindebaum/EventAppTodoTask/main/screenshots/baner.png" />
 
-## [https://react-cool-todo-app.netlify.app/](https://react-cool-todo-app.netlify.app/)
+#[(https://692371fc9b8a919640e9c8fc--eventapptodotask.netlify.app/)](https://692371fc9b8a919640e9c8fc--eventapptodotask.netlify.app/)
 
 
 

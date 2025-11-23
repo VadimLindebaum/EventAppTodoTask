@@ -26,7 +26,7 @@ const AppRouter = (): ReactElement => {
         <Route path="/categories" element={<Categories />} />
         <Route path="/purge" element={<Purge />} />
         <Route path="/sync" element={<Sync />} />
-        <Route path="*" element={<NotFound />} />
+        <Route path="/*" element={<NotFound />} />
       </Routes>
     </Suspense>
   );
